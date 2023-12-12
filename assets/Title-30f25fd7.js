@@ -1,0 +1,1 @@
+import{P as o,j as i}from"./index-1ee1ae26.js";import{S as l}from"./Title.styled-422a666b.js";const r=({Title:e,name:s})=>i.jsx(l,{name:s,children:e});r.propTypes={Title:o.string.isRequired,name:o.shape({welcome:o.bool,signin:o.bool,signup:o.bool,drinks:o.bool,add:o.bool,favorites:o.bool,home:o.bool,my:o.bool})};export{r as T};

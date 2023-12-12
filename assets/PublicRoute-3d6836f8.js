@@ -1,0 +1,1 @@
+import{a as t,s as a,u as r,j as n,N as u,P as c}from"./index-1ee1ae26.js";const i=({children:s})=>{const e=t(a),o=r();return e?n.jsx(u,{to:"/home",state:{from:o}}):s};i.propTypes={children:c.node};export{i as default};

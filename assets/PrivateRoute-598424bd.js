@@ -1,0 +1,1 @@
+import{u as t,a as o,s as a,j as n,N as r,P as i}from"./index-1ee1ae26.js";const u=({children:s})=>{const e=t();return o(a)?s:n.jsx(r,{to:"/signin",state:{from:e}})};u.propTypes={children:i.node};export{u as default};
