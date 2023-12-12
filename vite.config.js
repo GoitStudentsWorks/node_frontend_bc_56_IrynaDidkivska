@@ -10,4 +10,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base: /node_frontend_bc_56_IrynaDidkivska/
 });
