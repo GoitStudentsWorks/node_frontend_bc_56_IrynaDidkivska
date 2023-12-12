@@ -14,7 +14,7 @@ import 'react-toastify/dist/ReactToastify.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <PersistGate loading={null} persistor={persistor}>
     <Provider store={store}>
-      <BrowserRouter basename="/node_frontend_bc_56_IrynaDidkivska">
+      <BrowserRouter basename="/node_frontend_bc_56_IrynaDidkivska/">
         <App />
         <ToastContainer autoClose={1800} />
       </BrowserRouter>
